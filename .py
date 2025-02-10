@@ -28,4 +28,5 @@ def hangman():
         print(f"Congratulations! You guessed the word: {word}")
     else:
         print(f"Game over! The word was: {word}")
+        
 hangman()
